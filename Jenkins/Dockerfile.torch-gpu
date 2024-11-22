@@ -153,7 +153,7 @@ RUN python3 -m pip --no-cache-dir install \
         dataclasses \
         datasets \
         Deprecated \
-        deepspeed \
+        deepspeed==0.15.2 \
         docutils==0.16 \
         graphviz \
         grpcio \
